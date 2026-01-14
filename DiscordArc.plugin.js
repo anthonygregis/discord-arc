@@ -3,7 +3,7 @@
  * @version 1.0.0
  * @description Create server profiles to filter which servers and folders appear in your sidebar - like Arc browser profiles for Discord. Switch profiles via the sidebar icon or keyboard shortcuts.
  * @author agregis
- * @source https://github.com/agregis/discord-arc
+ * @source https://github.com/anthonygregis/discord-arc
  */
 
 module.exports = class DiscordArc {
